@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-06 Verify Deleted Pet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbc44fe1-edd4-4111-a5b3-b787bb440b13</testCaseGuid>
+</TestCaseEntity>
